@@ -13,3 +13,4 @@ LICENSE
 *.gitignore
 *.md
 *.yml
+*.sh
