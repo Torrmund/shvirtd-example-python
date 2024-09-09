@@ -1,0 +1,15 @@
+*haproxy
+*nginx
+*env
+*.python
+LICENSE
+*.yaml
+*.git
+*.pdf
+*.txt
+!requirements.txt
+*/venv
+*.dockerignore
+*.gitignore
+*.md
+*.yml
